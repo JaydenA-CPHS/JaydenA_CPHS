@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Greetings!</title>
+        <link> href="mystyle" rel="Mystyle"
+    </head>
+    <body>
+        <p>CSS Practice
+            <h1>First</h1>
+            <h1>Second</h1>
+            <h1>Third</h1>
+        </p>
+    </body>
+<html>
